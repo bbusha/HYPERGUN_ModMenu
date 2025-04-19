@@ -6,7 +6,7 @@ namespace HYPERGUN_mods
     public static class BuildInfo
     {
         public const string Name = "HYPERGUN_mods";
-        public const string Author = "REPLACE_ME";
+        public const string Author = "TheOriginalGhost";
         public const string Company = null;
         public const string Version = "1.0.0";
         public const string DownloadLink = null;
